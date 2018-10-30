@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30ecaae5-8afa-497c-a4f0-a0e47ee17c64" name="Default" comment="" />
+    <list default="true" id="ef933d4a-0a3a-408d-a7c9-453c0f16dd1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/OrganicFood.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/blade.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,213 +19,9 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DatabaseView">
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FavoritesManager">
-    <favorites_list name="OrganicFood" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="frount.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/frount.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="2383" column="16" lean-forward="true" selection-start-line="2383" selection-start-column="16" selection-end-line="2383" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order_list.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order_list.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4012">
-              <caret line="236" column="49" lean-forward="false" selection-start-line="236" selection-start-column="49" selection-end-line="236" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="307" column="49" lean-forward="false" selection-start-line="307" selection-start-column="49" selection-end-line="307" selection-end-column="49" />
-              <folding>
-                <marker date="1540555484164" expanded="false" signature="9645:9660" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/master/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="283" column="58" lean-forward="false" selection-start-line="283" selection-start-column="58" selection-end-line="283" selection-end-column="58" />
-              <folding>
-                <element signature="n#nav#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#!!top" expanded="false" />
-                <element signature="n#div#4;n#!!top" expanded="false" />
-                <element signature="n#div#5;n#!!top" expanded="false" />
-                <element signature="n#div#6;n#!!top" expanded="false" />
-                <element signature="n#div#7;n#!!top" expanded="false" />
-                <element signature="n#div#8;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="master_data.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/master/master_data.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2023">
-              <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-              <folding>
-                <element signature="n#aside#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/master/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-              <folding>
-                <element signature="n#footer#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/master/plugin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="blog_details.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog_details.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="161" column="73" lean-forward="false" selection-start-line="161" selection-start-column="73" selection-end-line="161" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>.owl-carousel</find>
-      <find>number</find>
-      <find>.product_list_ul li</find>
-      <find>.search_filter</find>
-      <find>.product_block</find>
-      <find>.product_list_ul</find>
-      <find>.save_amt</find>
-      <find>.header_search</find>
-      <find>class=&quot;mdi mdi-basket&quot;</find>
-      <find>.spinner_addcardbtn</find>
-      <find>.more_other_details:before</find>
-      <find>.more_product_head</find>
-      <find>.keep-shoping</find>
-      <find>.more_productother_details:before</find>
-      <find>.availability_boxes</find>
-      <find>.slider_nav</find>
-      <find>.review-block</find>
-      <find>.main_menu</find>
-      <find>.page_loader</find>
-      <find>.close_btn</find>
-      <find>.deli_row</find>
-      <find>.btn-send</find>
-      <find>.product_name</find>
-      <find>.view_similiour_headbox</find>
-      <find>.blog_detail_box</find>
-      <find>.order_product_imgbox img</find>
-      <find>progtrckr-cancle</find>
-      <find>ol.progtrckr li.progtrckr-cancle</find>
-      <find>.login_lefttxtbox</find>
-      <find>.card_menubox</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>&lt;a class=&quot;product_details_link&quot; href=&quot;product_details.php&quot;&gt;Fortune Plus Soya Oil Pouch 1 LT&lt;/a&gt;</replace>
-      <replace>&lt;span onclick=&quot;SelectStar(this)&quot; class=&quot;mdi mdi-star-outline</replace>
-      <replace>class=&quot;mdi mdi-basket-unfill&quot;</replace>
-    </replaceStrings>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/css/flaticon.css" />
-        <option value="$USER_HOME$/Desktop/PrihulGreen/OwlCarousel2-2.2.1/docs/demos/autoplay.html" />
-        <option value="$PROJECT_DIR$/css/media.css" />
-        <option value="$PROJECT_DIR$/testing.html" />
-        <option value="$PROJECT_DIR$/css/index.php" />
-        <option value="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
-        <option value="D:/PinkuWork11_01_18/Organic_Site/Owl_carousal/OwlCarousel2-develop/docs/demos/autoplay.html" />
-        <option value="$PROJECT_DIR$/sliderdemo.php" />
-        <option value="$PROJECT_DIR$/js/owl.carousel.js" />
-        <option value="$PROJECT_DIR$/globalcolor.php" />
-        <option value="$PROJECT_DIR$/js/jquery.touchSwipe.min.js" />
-        <option value="$PROJECT_DIR$/js/jquery-ui.min.js" />
-        <option value="$PROJECT_DIR$/master/master_data.php" />
-        <option value="$PROJECT_DIR$/brics.php" />
-        <option value="$PROJECT_DIR$/product_list.php" />
-        <option value="$PROJECT_DIR$/testing.php" />
-        <option value="$PROJECT_DIR$/css/bootstrap-touch-slider.css" />
-        <option value="$PROJECT_DIR$/master/plugin.php" />
-        <option value="$PROJECT_DIR$/home.php" />
-        <option value="$PROJECT_DIR$/allproduct.php" />
-        <option value="$PROJECT_DIR$/product_details.php" />
-        <option value="$PROJECT_DIR$/js/Global.js" />
-        <option value="$PROJECT_DIR$/product_feedback.php" />
-        <option value="$PROJECT_DIR$/checkout.php" />
-        <option value="$PROJECT_DIR$/mycart.php" />
-        <option value="$PROJECT_DIR$/wholesalesregistration.php" />
-        <option value="$PROJECT_DIR$/my_profile.php" />
-        <option value="$PROJECT_DIR$/about_us.php" />
-        <option value="$PROJECT_DIR$/terms.blade.php" />
-        <option value="$PROJECT_DIR$/terms.php" />
-        <option value="$PROJECT_DIR$/returnpolicy.blade.php" />
-        <option value="$PROJECT_DIR$/returns_policy.php" />
-        <option value="$PROJECT_DIR$/contactus.php" />
-        <option value="J:/blogdetail.php" />
-        <option value="$PROJECT_DIR$/blog_details.php" />
-        <option value="$PROJECT_DIR$/order_list.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/master/footer.php" />
-        <option value="$PROJECT_DIR$/blog_list.php" />
-        <option value="$PROJECT_DIR$/master/header.php" />
-        <option value="$PROJECT_DIR$/css/frount.css" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -230,8 +33,11 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="1376" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -248,7 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -261,192 +66,53 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Oz_Doller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Oz_Doller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="master" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Oz_Doller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Oz_Doller" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RetinodesSite" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\OrganicFood" />
-      <recent name="C:\xampp\htdocs\OrganicFood\video" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\Oz_Doller\images\oz-images" />
-      <recent name="C:\xampp\htdocs\Oz_Doller\images" />
-      <recent name="C:\xampp\htdocs\Oz_Doller" />
-      <recent name="C:\xampp\htdocs\OrganicFood\images" />
-      <recent name="C:\xampp\htdocs\OrganicFood" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
-      <BehatRunner />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
-    </configuration>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30ecaae5-8afa-497c-a4f0-a0e47ee17c64" name="Default" comment="" />
-      <created>1524638329477</created>
+      <changelist id="ef933d4a-0a3a-408d-a7c9-453c0f16dd1f" name="Default" comment="" />
+      <created>1540894618189</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524638329477</updated>
-      <workItem from="1524638333565" duration="8999000" />
-      <workItem from="1524658108457" duration="632000" />
-      <workItem from="1524739421210" duration="7427000" />
-      <workItem from="1524806311637" duration="13991000" />
-      <workItem from="1524893115335" duration="18415000" />
-      <workItem from="1525065664935" duration="14005000" />
-      <workItem from="1525238405049" duration="21246000" />
-      <workItem from="1525325504510" duration="1795000" />
-      <workItem from="1525421228171" duration="13588000" />
-      <workItem from="1525498093641" duration="11051000" />
-      <workItem from="1525522543301" duration="5587000" />
-      <workItem from="1525689353181" duration="2701000" />
-      <workItem from="1525692608174" duration="9548000" />
-      <workItem from="1525756502307" duration="19234000" />
-      <workItem from="1525843146498" duration="20961000" />
-      <workItem from="1525933854405" duration="1810000" />
-      <workItem from="1526016821352" duration="30051000" />
-      <workItem from="1526119944402" duration="4533000" />
-      <workItem from="1526276775779" duration="11305000" />
-      <workItem from="1526297806972" duration="986000" />
-      <workItem from="1526464560870" duration="630000" />
-      <workItem from="1526470262939" duration="9310000" />
-      <workItem from="1526534454221" duration="8975000" />
-      <workItem from="1526621450026" duration="6654000" />
-      <workItem from="1526881037983" duration="1299000" />
-      <workItem from="1527148642188" duration="4487000" />
-      <workItem from="1527589720005" duration="11613000" />
-      <workItem from="1527657143896" duration="13894000" />
-      <workItem from="1527677605515" duration="11501000" />
-      <workItem from="1527759817579" duration="20000" />
-      <workItem from="1538820144189" duration="1492000" />
-      <workItem from="1540273180032" duration="22748000" />
-      <workItem from="1540314116291" duration="59000" />
-      <workItem from="1540359801044" duration="47788000" />
-      <workItem from="1540532833592" duration="8403000" />
-      <workItem from="1540559741856" duration="102000" />
-      <workItem from="1540561138209" duration="164000" />
-      <workItem from="1540628969111" duration="3169000" />
+      <updated>1540894618189</updated>
+      <workItem from="1540894619642" duration="637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370173000" />
+    <option name="totallyTimeSpent" value="637000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22314675" sideWeight="0.49346405" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2987897" sideWeight="0.50653595" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -458,171 +124,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/frount.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4012">
-          <caret line="236" column="49" lean-forward="false" selection-start-line="236" selection-start-column="49" selection-end-line="236" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5219">
-          <caret line="307" column="49" lean-forward="false" selection-start-line="307" selection-start-column="49" selection-end-line="307" selection-end-column="49" />
-          <folding>
-            <marker date="1540555484164" expanded="false" signature="9645:9660" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4726">
-          <caret line="278" column="42" lean-forward="false" selection-start-line="278" selection-start-column="42" selection-end-line="278" selection-end-column="42" />
-          <folding>
-            <element signature="n#nav#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#!!top" expanded="false" />
-            <element signature="n#div#8;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="72" column="54" lean-forward="false" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
-          <folding>
-            <element signature="n#footer#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="161" column="73" lean-forward="false" selection-start-line="161" selection-start-column="73" selection-end-line="161" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order_list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4012">
-          <caret line="236" column="49" lean-forward="false" selection-start-line="236" selection-start-column="49" selection-end-line="236" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="307" column="49" lean-forward="false" selection-start-line="307" selection-start-column="49" selection-end-line="307" selection-end-column="49" />
-          <folding>
-            <marker date="1540555484164" expanded="false" signature="9645:9660" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="152" column="24" lean-forward="false" selection-start-line="152" selection-start-column="9" selection-end-line="152" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog_details.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="161" column="73" lean-forward="false" selection-start-line="161" selection-start-column="73" selection-end-line="161" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding>
-            <element signature="n#footer#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/plugin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/master_data.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2023">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding>
-            <element signature="n#aside#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/master/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="283" column="58" lean-forward="false" selection-start-line="283" selection-start-column="58" selection-end-line="283" selection-end-column="58" />
-          <folding>
-            <element signature="n#nav#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#!!top" expanded="false" />
-            <element signature="n#div#8;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/frount.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="2383" column="16" lean-forward="true" selection-start-line="2383" selection-start-column="16" selection-end-line="2383" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
